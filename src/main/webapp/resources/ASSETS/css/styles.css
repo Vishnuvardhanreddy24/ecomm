@@ -1,0 +1,12 @@
+back{
+}
+
+body{
+  background-image:url(../../assets/img/bc.jpg);
+}
+
+div#carousel-1.carousel.slide{
+  width:60%;
+  margin:0 auto;
+}
+
